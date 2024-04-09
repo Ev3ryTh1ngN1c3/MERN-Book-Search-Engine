@@ -1,4 +1,4 @@
- # MERN Book Search Engine
+# MERN Book Search Engine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -14,13 +14,34 @@
   
 ## Description
 
+This project is a MERN stack single-page application that allows users to search for books using a GraphQL API. <br>
+The application uses React for the front end, GraphQL with a Node.js & Express.js server for data retrieval, <br>
+MongoDB with Mongoose ODM for the database & JWT for authentication. <br>
+The UI is polished, responsive & interactive, providing a seamless user experience. <br>
+The repository follows best coding practices.
+
 ## User Guide
+
+Navigate to the deployed application URL.<br>
+Sign up or log in to access the book search & save features.<br>
+Enter keywords in the search bar to find books.<br>
+Click on the "Save" button to add a book to your favorites.<br>
+Manage your saved books by viewing or deleting them.<br>
 
 ## Live URL 
 
 ## Project Motivation
 
+This project motivation was to provide a real-world application that demonstrates the use of a MERN stack <br>
+(MongoDB, Express.js, React, Node.js) in building a full-stack single-page application.<br>
+Overall, the motivation behind this project is to provide a hands-on learning experience in building a modern,<br>
+data-driven & user-focused application using the MERN stack, while also preparing to showcase skills.
+
 ## What Was Learned
+
+This project offered a comprehensive learning experience that covers various aspects of full-stack application <br>
+development, including technology integration, database management, user authentication, deployment, UI/UX design, <br>
+problem-solving & portfolio building.
 
 ## Acknowledgments
 
